@@ -1,6 +1,6 @@
 <?php 
 
-define('RUTA', 'http://localhost:8080/practicas/blog/');
+define('RUTA', 'http://localhost:8080/practicas/blog');
 
 $bd_config = array('basedatos' => 'curso_blog', 'usuario' => 'root', 'pass' => '');
 

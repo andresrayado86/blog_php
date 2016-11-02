@@ -6,8 +6,8 @@
         <link href="https://fonts.googleapis.com/css?family=Wendy+One" rel="stylesheet">   
         <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
-        <link rel="stylesheet" href="font-awesome-4.6.3/css/font-awesome.min.css">
-        <link rel="stylesheet" href="<?php echo RUTA; ?>css/estilos.css">
+        <link rel="stylesheet" href="<?php echo RUTA; ?>/font-awesome-4.6.3/css/font-awesome.min.css">
+        <link rel="stylesheet" href="<?php echo RUTA; ?>/css/estilos.css">
         <title>Blog de practica</title>
     </head>
     <body>

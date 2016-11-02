@@ -10,6 +10,7 @@
                             <img src="<?php echo RUTA; ?>/imagenes/<?php echo $post['thumb']; ?>" alt="">
                             
                         </div>
+                        <!-- La funcion nl2br() sirve para que aparezcan conrrectamente los saltos de linea -->
                         <p class="extracto"><?php echo nl2br($post['texto']); ?></p>
                     </article>
                 </div>
